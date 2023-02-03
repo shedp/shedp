@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Sheena
+
+Starting my coning journey with <a href="https://www.getfutureproof.co.uk/">Futureproof</a>
 
 <!--
 **shedp/shedp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
