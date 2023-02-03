@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">Hello, I'm Sheena</h1>
 
-<p style="text-align:center;">Starting my coning journey with <a href="https://www.getfutureproof.co.uk/">Futureproof</a></p>
+<p style="text-align:center;">Starting my coding journey with <a href="https://www.getfutureproof.co.uk/">Futureproof</a></p>
 
 <!--
 **shedp/shedp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
