@@ -3,6 +3,11 @@
 <p align="center">Starting my coding journey with <a href="https://www.getfutureproof.co.uk/">Futureproof</a> ✨</p>
 
 <p align="center">Find me on <a href="https://www.linkedin.com/in/sheena-d-815241177/">LinkedIn</a> 📫</p>
+<span></span>
+<h2 align="center">Languages</h1>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-html5-plain colored"></i>
 
 <!--
 **shedp/shedp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
