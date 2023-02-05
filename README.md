@@ -5,7 +5,7 @@
 <p align="center">Find me on <a href="https://www.linkedin.com/in/sheena-d-815241177/">LinkedIn</a> 📫</p>
 <span></span>
 <h2 align="center">Languages</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
 <!--
 **shedp/shedp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
