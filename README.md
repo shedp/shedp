@@ -10,7 +10,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" style="display:inline-block"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" style="display:inline-block"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" style="display:inline-block"/>
-  <span></span>
+<img style="opacity:0.5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
+  <span><br></span>
 <img class="opacity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="35" style="display:inline-block"/>
 <img class="opacity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="35" style="display:inline-block"/>
 <img class="opacity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="35" style="display:inline-block"/>
@@ -30,8 +31,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="35" />
-          
+<img class="opacity1"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35" />        
 </div>        
+
 
 <!--
 **shedp/shedp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
