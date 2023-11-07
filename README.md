@@ -2,9 +2,9 @@
 
 <p align="center">Starting my coding journey ✨</p>
 
-<p align="center">Find me on <a href="[https://www.linkedin.com/in/sheena-d-815241177/](https://www.linkedin.com/in/sheena-diep-815241177/?originalSubdomain=uk)" target="_blank">LinkedIn</a> 📫</p>
+<p align="center">Find me on [LinkedIn]([</a>](https://www.linkedin.com/in/sheena-diep-815241177) 📫</p>
 <span></span>
-<h2 align="center">Languages</h1>
+<h2 align="center">Languages</h)1>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" style="display:inline-block"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" style="display:inline-block"/>
