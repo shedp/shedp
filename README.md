@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Sheena</h1>
 
+<p align="center">Aspiring Developer ✨</p>
 <p align="center">Starting my coding journey ✨</p>
 
 <p align="center">Find me on <a href="https://www.linkedin.com/in/sheena-diep-815241177"> Linkedin</a> 📫</p>
@@ -26,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg width="35">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  width="35" />
