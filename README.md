@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Sheena</h1>
 
 <p align="center">Aspiring Developer ✨</p>
-<p align="center">Starting my coding journey ✨</p>
-
 <p align="center">Find me on <a href="https://www.linkedin.com/in/sheena-diep-815241177"> Linkedin</a> 📫</p>
 <span></span>
 <h2 align="center">Languages</h)1>
