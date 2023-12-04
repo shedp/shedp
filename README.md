@@ -36,4 +36,4 @@
 </div>        
 
 <h1>Github Stats</h1>
-[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?shedp&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shedp&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
