@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Sheena</h1>
 
+<p align="center">Product Owner 🤓</p>
 <p align="center">Aspiring Developer ✨</p>
 <p align="center">Find me on <a href="https://www.linkedin.com/in/sheena-diep-815241177"> Linkedin</a> 📫</p>
 <p align="center">Visit my <a href="https://sheenadiep.com/">Portfolio</a 🌍</p>
